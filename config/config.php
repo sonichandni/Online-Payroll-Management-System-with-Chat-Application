@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-define("ADMIN_URL","http://localhost/Payroll_Project/");
+define("ADMIN_URL","http://localhost/Online-Payroll-Management-System-with-Chat-Application/");
 
 $db_host = "localhost";
 $db_username = "root";
